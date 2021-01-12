@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+}
+
+.navbar .navbar-brand {
+    font-size: 30px;
+}
+
+.navbar a {
+    color: white !important;
+}
+
+#uno {
+    background-color: #067655;
+}
+
+#wave {
+    width: 100%;
+}
+
+#intro {
+    color: white;
+}
+
+h2 {
+    font-size: 50px !important;
+    padding-top: 10rem;
+}
+
+.container {
+    padding-top: 2rem;
+}
+
+.btn-primary {
+    background-color: #91a134 !important;
+    color: white !important;
+    border: #1f4068 !important;
+    border-radius: 30px !important;
+    font-size: 18px !important;
+    padding: 10px 27px !important;
+    margin-right: 20px;
+}
+
+.btn-outline-primary {
+    border-color: white !important;
+    color: white !important;
+    border-radius: 30px !important;
+    font-size: 18px !important;
+    padding: 10px 27px !important;
+}
+
+#h3 {
+    font-size: 40px !important;
+    padding-top: 4rem;
+}
+
+p {
+    font-size: 18px !important;
+}
+
+a {
+    font-size: 20px;
+    color: black !important;
+    text-decoration: none !important;
+}
